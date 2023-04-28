@@ -1,0 +1,15 @@
+/Users/darshanchetty/Desktop/programming/POE/POEPART1DARSHANCHETTY/bin/Debug/net6.0/POEPART1DARSHANCHETTY
+/Users/darshanchetty/Desktop/programming/POE/POEPART1DARSHANCHETTY/bin/Debug/net6.0/POEPART1DARSHANCHETTY.deps.json
+/Users/darshanchetty/Desktop/programming/POE/POEPART1DARSHANCHETTY/bin/Debug/net6.0/POEPART1DARSHANCHETTY.runtimeconfig.json
+/Users/darshanchetty/Desktop/programming/POE/POEPART1DARSHANCHETTY/bin/Debug/net6.0/POEPART1DARSHANCHETTY.dll
+/Users/darshanchetty/Desktop/programming/POE/POEPART1DARSHANCHETTY/bin/Debug/net6.0/POEPART1DARSHANCHETTY.pdb
+/Users/darshanchetty/Desktop/programming/POE/POEPART1DARSHANCHETTY/obj/Debug/net6.0/POEPART1DARSHANCHETTY.csproj.AssemblyReference.cache
+/Users/darshanchetty/Desktop/programming/POE/POEPART1DARSHANCHETTY/obj/Debug/net6.0/POEPART1DARSHANCHETTY.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darshanchetty/Desktop/programming/POE/POEPART1DARSHANCHETTY/obj/Debug/net6.0/POEPART1DARSHANCHETTY.AssemblyInfoInputs.cache
+/Users/darshanchetty/Desktop/programming/POE/POEPART1DARSHANCHETTY/obj/Debug/net6.0/POEPART1DARSHANCHETTY.AssemblyInfo.cs
+/Users/darshanchetty/Desktop/programming/POE/POEPART1DARSHANCHETTY/obj/Debug/net6.0/POEPART1DARSHANCHETTY.csproj.CoreCompileInputs.cache
+/Users/darshanchetty/Desktop/programming/POE/POEPART1DARSHANCHETTY/obj/Debug/net6.0/POEPART1DARSHANCHETTY.dll
+/Users/darshanchetty/Desktop/programming/POE/POEPART1DARSHANCHETTY/obj/Debug/net6.0/refint/POEPART1DARSHANCHETTY.dll
+/Users/darshanchetty/Desktop/programming/POE/POEPART1DARSHANCHETTY/obj/Debug/net6.0/POEPART1DARSHANCHETTY.pdb
+/Users/darshanchetty/Desktop/programming/POE/POEPART1DARSHANCHETTY/obj/Debug/net6.0/POEPART1DARSHANCHETTY.genruntimeconfig.cache
+/Users/darshanchetty/Desktop/programming/POE/POEPART1DARSHANCHETTY/obj/Debug/net6.0/ref/POEPART1DARSHANCHETTY.dll
