@@ -14,4 +14,4 @@ hopw many times should the ingredients be scaled.
 If you choose option 4, which will be to reset the quantities, all the data will be reset to their original values
 If you choose option 5, which will be to Clear the Recipe, all data will be erased or set to 0 in the array.
 Once you are done with using the program, you can choose option 6, which will exit the program
-Link to the repositpory:https://github.com/DarshanChetty/st10226392-poe-part-1-prog-2a/edit/main/README.md
+Link to the repositpory:https://github.com/DarshanChetty/st10226392-poe-part-1-prog-2a
